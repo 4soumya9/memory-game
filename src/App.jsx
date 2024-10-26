@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-    {/* <MemoryGame/> */}
-    <PracMemory/>
+    <MemoryGame/>
+    
     
       
     </>
